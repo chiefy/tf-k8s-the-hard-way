@@ -1,3 +1,5 @@
 *.tfstate
 terraform.tfstate.backup
 terraform.tfvars
+certs
+kubernetes-csr.json
